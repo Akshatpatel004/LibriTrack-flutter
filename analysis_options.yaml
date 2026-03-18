@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Allow using print statements for debugging purposes
+    avoid_print: false
+
+    # Allow using dynamic types for flexibility
+    avoid_dynamic_calls: false
+
+    # Allow using 'new' keyword
+    unnecessary_new: false
+
+    # Allow using 'const' keyword
+    unnecessary_const: false

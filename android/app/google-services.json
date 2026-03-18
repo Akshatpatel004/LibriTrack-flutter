@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "593899405417",
+    "project_id": "library-management-syste-a37b3",
+    "storage_bucket": "library-management-syste-a37b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593899405417:android:56a764af2f4eaa054b22f8",
+        "android_client_info": {
+          "package_name": "com.example.problemsheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593899405417-m8soamieh62mjjmdq4ru0u3n80v7km94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRRz26HVnVbOVN9ZPe_fW6szGGH780Oa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593899405417-m8soamieh62mjjmdq4ru0u3n80v7km94.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593899405417-nc33iu7au698huah8dl059b5sqh7uibt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.problemsheet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
